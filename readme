@@ -1,1 +1,2 @@
 hfile: creates an .h file when given a .c file
+pickfrom: picks a random option among the options provided
